@@ -1,0 +1,24 @@
+{
+  "name": "senior-javascript",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tilek04/Exel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Tilek Dzhenishev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tilek04/Exel-course/issues"
+  },
+  "homepage": "https://github.com/Tilek04/Exel-course#readme"
+}
